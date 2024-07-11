@@ -1,0 +1,118 @@
+.navbar p{
+    font-family: "Black Ops One", system-ui;
+    margin-right: 150px;
+    margin-top: -30px;
+    font-size: 130px;
+    text-shadow: 3px 4px 3px black;
+    color: rgb(60, 12, 12);
+    
+}
+.sti{
+    position: sticky;
+    top: 0px;
+    background-color: rgb(215, 144, 52);
+
+}
+.navbar{
+    height: 150px;
+    background-color: rgb(215, 144, 52);
+}
+.navbar img{
+    margin-top: -70px;
+    margin-left: 100px;
+}
+.sti h6{
+    margin-left: 650px;
+    font-family: "Playfair Display", serif;
+    font-weight: bold;
+    position: sticky;
+    top: 0px;
+}
+.intro{
+    padding: 40px;
+}
+body{
+    background-color: rgb(222, 200, 135)
+}
+.intro h1{
+    font-size: 50px;
+    font-family: "Barlow", sans-serif;}
+.c1{
+    width: 1000px;
+    margin-left: 300px;
+}
+.c1 p{
+    font-size: 20px;
+    text-align: justify;
+    padding: 50px;
+}
+.types h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: "Architects Daughter", cursive;
+    color: rgb(60, 12, 12);
+    text-shadow: 2px 3px 2px black;
+    margin-top: 60px;
+}
+.para{
+    font-family: "Playfair Display", serif;
+    font-size: 20px;
+    margin: 10px;
+    text-align: justify;
+}
+.para ul li{
+    margin-left: 20px;
+}
+.item{
+    font-family: "Playfair Display", serif;
+    display: flex;
+    margin: 20px;
+}
+.item img{
+    border: 1px;
+    border-radius: 5%;
+    width: 250px;
+    height: 250px;
+}
+.text{
+    margin-top: 50px;
+    margin-left: 20px;
+    margin-right: 100px;
+}
+.text p{
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px;
+}
+.gallery{
+    background-color: rgb(215, 144, 52);
+    margin: 20px;
+}
+.eg img:hover{
+    box-shadow: 3px 3px 3px 3px black;
+    scale: 1.05;
+}
+table tr{
+    padding: 30px;
+}
+.formm{
+    background-color: rgb(215, 144, 52);
+    border: 2px black;
+
+}
+#sticky{
+    position: fixed;
+    bottom: 2%;
+    margin-left: 90%;
+}
+
+#sticky img{
+    cursor: pointer;
+    transform: scale(1);
+    transition: transform 0.5s ease;
+}
+#sticky img:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+ }
+
